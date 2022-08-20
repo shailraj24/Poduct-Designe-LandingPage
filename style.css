@@ -471,6 +471,10 @@ footer .upper-footer .socials i{
   .last-nav .nav-item{
     font-size: 15px;
   }
+  footer .upper-footer .socials i{
+    font-size: 20px;
+    margin-right: 10px;
+  }
 
 }
 
@@ -509,5 +513,10 @@ footer .upper-footer .socials i{
     justify-content: center;
     gap: 20px;
   }
+  footer .upper-footer .socials i{
+    font-size: 20px;
+    margin-right: 10px;
+  }
+
 
 }
