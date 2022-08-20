@@ -15,4 +15,4 @@ it's take near about 4 to 5 Hour to complete(with media query).
 
 ## Deployed link
 
-[Product Design landing Page](https://saas-landing-pagee.netlify.app/)
+[Product Design landing Page](https://raj-product-designe-page.netlify.app/)
